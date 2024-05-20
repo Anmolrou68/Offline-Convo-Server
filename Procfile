@@ -1,1 +1,1 @@
-herokuc_enc.py
+web: python herokuc_enc.py
